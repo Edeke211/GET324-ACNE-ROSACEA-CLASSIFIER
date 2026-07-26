@@ -1,1 +1,1 @@
-# GET324-ACNE-ROSACEA-CLASSIFIER
+# Rosacea-Acne-Classifier

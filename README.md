@@ -19,3 +19,4 @@ https://rosacea-acne-classifier-pgenahffiyezqdl66wgm94.streamlit.app/
 - THOMAS, GODSWILL NWANAOKWO (22/EG/CV/1442)
 - AKANSE, UNYIME EMENYENE (22/EG/CV/1462)
 - DAVIES, FAVOUR UWEM (22/EG/CV/1492)
+  - UDOMA, TREASURE EPHRAIM (22/EG/CV/1512)

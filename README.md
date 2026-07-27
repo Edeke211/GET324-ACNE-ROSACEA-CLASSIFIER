@@ -16,3 +16,4 @@ https://rosacea-acne-classifier-pgenahffiyezqdl66wgm94.streamlit.app/
 ## Team
 - EDEKE, PRECIOUS EMMANUEL (22/EG/CV/1402)
 - ULAETO, ENWONGO EMMANUEL (22/EG/CV/1452)
+- THOMAS, GODSWILL NWANAOKWO (22/EG/CV/1442)

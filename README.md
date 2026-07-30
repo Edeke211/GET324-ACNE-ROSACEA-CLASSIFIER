@@ -21,3 +21,4 @@ https://rosacea-acne-classifier-pgenahffiyezqdl66wgm94.streamlit.app/
 - DAVIES, FAVOUR UWEM (22/EG/CV/1492)
 - UDOMA, TREASURE EPHRAIM (22/EG/CV/1512)
 - UDOH, JOSHUA MICHAEL (22/EG/CV/1412)
+- USOH, ISAAC ABRAHAM (22/EG/CV/1422)
